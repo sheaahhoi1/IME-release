@@ -66,7 +66,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\CTF\TIP\{B115690A-EA02-48D5-A231-E3578D2FD
 <br>
 如下擁有改為admin權限使用者(我這裡私人電腦Users,就有admin權限)
 <br>
-<img src="https://github.com/sheaahhoi1/IME-release/blob/master/img/re.png?raw=true" width="50%" />
+<img src="https://github.com/sheaahhoi1/IME-release/blob/master/img/re.png?raw=true" width="90%" />
 <br>
 <br>
 刪除以下2段路徑機器碼{74769ee9-4a66-4f9d-90d6-bf8b7c3eb461}
@@ -83,13 +83,13 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\CTF\TIP\{B115690A-EA02-48D5-A231-E3578D2FD
 <br>
 ---------
 <br>
-<img src="https://github.com/sheaahhoi1/IME-release/blob/master/img/use1.png?raw=true" width="50%" />
+<img src="https://github.com/sheaahhoi1/IME-release/blob/master/img/use1.png?raw=true" width="80%" />
 <br>
-<img src="https://github.com/sheaahhoi1/IME-release/blob/master/img/use2.png?raw=true" width="50%" />
+<img src="https://github.com/sheaahhoi1/IME-release/blob/master/img/use2.png?raw=true" width="80%" />
 <br>
-<img src="https://github.com/sheaahhoi1/IME-release/blob/master/img/use3.png?raw=true" width="50%" />
+<img src="https://github.com/sheaahhoi1/IME-release/blob/master/img/use3.png?raw=true" width="80%" />
 <br>
-<img src="https://github.com/sheaahhoi1/IME-release/blob/master/img/use4.png?raw=true" width="50%" />
+<img src="https://github.com/sheaahhoi1/IME-release/blob/master/img/use4.png?raw=true" width="80%" />
 <br>
 <br>
 本來是寫了這樣的reg檔的可以直接刪除
