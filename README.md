@@ -1,5 +1,5 @@
 # Remove_restriction_to_NewIME
-<font size="18">完全移除win10/win11上新速成/新倉頡/新注音 限制,全介面使用</font>
+<font size="18">完全移除win10/win11上新速成/新倉頡/新注音 metro界面限制,全介面使用</font>
 <br>
 
 <font size="10"><a href="https://answers.microsoft.com/zh-hant/windows/forum/all/2020%E5%B9%B4win10-20h1/bb6bee29-9d01-405c-b3da-540296e4ae90">上次解決2020事件</a></font>
