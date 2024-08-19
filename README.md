@@ -8,6 +8,7 @@
 其實在上次解決後沒什麼大問題存在,一直如往日使用,但在早前發現有BLOG提到突然有一個新功能，那作者BLOG好像關掉了，所以就沒有沒有來源了，但現在又沒人知道，所以就來分享一下。
 完全移除win10/win11上新速成/新倉頡/新注音 限制，全介面使用，解除metro app/metro應用/開始搜尋等全限制。
 <br>
+<br>
 我現在系統也升到win11 23H2,22631.3958
 <br>
 <img src="https://github.com/sheaahhoi1/IME-release/blob/master/img/win11 23H2.png?raw=true" width="50%" />
