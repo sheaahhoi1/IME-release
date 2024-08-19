@@ -4,14 +4,14 @@
 
 <font size="10"><a href="https://answers.microsoft.com/zh-hant/windows/forum/all/2020%E5%B9%B4win10-20h1/bb6bee29-9d01-405c-b3da-540296e4ae90">上次解決2020事件</a></font>
 <br>
-<a href="https://github.com/sheaahhoi1/IME-release">上次分享的庫</a>
-<br>
+
 其實在上次解決後沒什麼大問題存在,一直如往日使用,但在早前發現有BLOG提到突然有一個新功能，那作者BLOG好像關掉了，所以就沒有沒有來源了，但現在又沒人知道，所以就來分享一下。
 完全移除win10/win11上新速成/新倉頡/新注音 限制，全介面使用，解除metro app/metro應用/開始搜尋等全限制。
 <br>
 我現在系統也升到win11 23H2,22631.3958
 <br>
-<img src="" width="50%" />
+<img src="https://github.com/sheaahhoi1/IME-release/blob/master/img/win11 23H2.png?raw=true" width="50%" />
+
 <br>
 日常操作沒什麼大問題除了打code 會被切換到中文
 <br>
@@ -24,7 +24,9 @@
 "相容性"有關
 <br>
 <br>
-<img src="" width="50%" />
+<img src="https://github.com/sheaahhoi1/IME-release/blob/master/%E6%AD%A5%E9%A9%9F/%E6%AD%A5%E9%A9%9F%20(1).png?raw=true" width="50%" />
+<br>
+<img src="https://github.com/sheaahhoi1/IME-release/blob/master/img/compatible.png?raw=true" width="50%" />
 <br>
 <br>
 ----------------------------
@@ -57,11 +59,22 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\CTF\TIP\{B115690A-EA02-48D5-A231-E3578D2FD
 3.套用到子項目權限
 <br>
 <br>
+<img src="https://github.com/sheaahhoi1/IME-release/blob/master/img/rev2.png?raw=true" width="50%" />
+<br>
+<img src="https://github.com/sheaahhoi1/IME-release/blob/master/img/revv2.png?raw=true" width="50%" />
+<br>
+如下擁有改為admin權限使用者(我這裡私人電腦Users,就有admin權限)
+<br>
+<img src="https://github.com/sheaahhoi1/IME-release/blob/master/img/re.png?raw=true" width="50%" />
+<br>
+<br>
 刪除以下2段路徑機器碼{74769ee9-4a66-4f9d-90d6-bf8b7c3eb461}
 <br>
-<font size="5">HKLM\SOFTWARE\Microsoft\CTF\TIP\{B115690A-EA02-48D5-A231-E3578D2FDF80}\Category\Category\{74769ee9-4a66-4f9d-90d6-bf8b7c3eb461}</font>
 <br>
-<font size="5">HKLM\SOFTWARE\Microsoft\CTF\TIP\{B115690A-EA02-48D5-A231-E3578D2FDF80}\Category\Item\{B115690A-EA02-48D5-A231-E3578D2FDF80}\{74769ee9-4a66-4f9d-90d6-bf8b7c3eb461}</font>
+<p><font size="5">HKLM\SOFTWARE\Microsoft\CTF\TIP\{B115690A-EA02-48D5-A231-E3578D2FDF80}\Category\Category\{74769ee9-4a66-4f9d-90d6-bf8b7c3eb461}</font></p>
+<br>
+<br>
+<p><font size="5">HKLM\SOFTWARE\Microsoft\CTF\TIP\{B115690A-EA02-48D5-A231-E3578D2FDF80}\Category\Item\{B115690A-EA02-48D5-A231-E3578D2FDF80}\{74769ee9-4a66-4f9d-90d6-bf8b7c3eb461}</font></p>
 <br>
 操作後即時生效可測試結果
 <br>
@@ -69,9 +82,11 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\CTF\TIP\{B115690A-EA02-48D5-A231-E3578D2FD
 <br>
 ---------
 <br>
-<img src="" width="50%" />
+<img src="https://github.com/sheaahhoi1/IME-release/blob/master/img/use1.png?raw=true" width="50%" />
 <br>
-<img src="" width="50%" />
+<img src="https://github.com/sheaahhoi1/IME-release/blob/master/img/use2.png?raw=true" width="50%" />
+<br>
+<img src="https://github.com/sheaahhoi1/IME-release/blob/master/img/use3.png?raw=true" width="50%" />
 <br>
 <br>
 本來是寫了這樣的reg檔的可以直接刪除
