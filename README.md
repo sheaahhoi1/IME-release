@@ -30,7 +30,7 @@
 <img src="https://github.com/sheaahhoi1/IME-release/blob/master/img/compatible.png?raw=true" width="50%" />
 <br>
 <br>
-<p><font size="5">在新速成/新倉頡啟用後就直接保留敲定下移除注音</font></p>
+<p><font size="5">在新速成/新倉頡啟用後就直接保留設定下移除注音</font></p>
 <br>
 ----------------------------
 <br>
