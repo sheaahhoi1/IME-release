@@ -88,6 +88,8 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\CTF\TIP\{B115690A-EA02-48D5-A231-E3578D2FD
 <br>
 <img src="https://github.com/sheaahhoi1/IME-release/blob/master/img/use3.png?raw=true" width="50%" />
 <br>
+<img src="https://github.com/sheaahhoi1/IME-release/blob/master/img/use4.png?raw=true" width="50%" />
+<br>
 <br>
 本來是寫了這樣的reg檔的可以直接刪除
 
