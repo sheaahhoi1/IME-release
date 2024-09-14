@@ -155,5 +155,7 @@ Windows Registry Editor Version 5.00
 <br>
 5.還是不能,更新windowns(為什麼?好像新安裝時語言套件不完整)
 <br>
-※:有一個值得關注是中文 (繁體) 當地體驗套件,如果上述操作仍然無法打字,試試更新,當你語言中可選擇中文 (繁體) 時會出現相對更新(這更新主要來源是Ms Store)
+6.關於HKSCS《香港增補字符集》ISO/IEC 10646,這是微軟的輸入法,只要確保Ms Store,只要能更新把最新的"中文 (繁體) 當地體驗套件"更新,就確保可使用最新修訂HKSCS《香港增補字符集》
 <br>
+<img src="https://github.com/sheaahhoi1/MS_New_CHT_IME-release/blob/master/img/HKSCS.webp" width="50%" />
+
