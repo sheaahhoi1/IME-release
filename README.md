@@ -9,9 +9,9 @@
 完全移除win10/win11上新速成/新倉頡/新注音 限制，全介面使用，解除metro app/metro應用/開始搜尋等全限制。
 <br>
 <br>
-我現在系統也升到win11 23H2,22631.3958
+我現在系統也升到win11 24H2,26100.1882
 <br>
-<img src="https://github.com/sheaahhoi1/IME-release/blob/master/img/win11 23H2.png?raw=true" width="50%" />
+<img src="https://github.com/sheaahhoi1/IME-release/blob/master/img/win11 24H2.png?raw=true" width="50%" />
 
 <br>
 日常操作沒什麼大問題除了打code 會被切換到中文
