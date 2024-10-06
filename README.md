@@ -11,7 +11,7 @@
 <br>
 我現在系統也升到win11 24H2,26100.1882
 <br>
-<img src="https://github.com/sheaahhoi1/IME-release/blob/master/img/win11 24H2.png?raw=true" width="50%" />
+<img src="https://raw.githubusercontent.com/sheaahhoi1/MS_New_CHT_IME-release/refs/heads/master/img/Win11%2024H2.png" width="50%" />
 
 <br>
 日常操作沒什麼大問題除了打code 會被切換到中文
